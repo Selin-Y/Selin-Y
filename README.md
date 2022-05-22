@@ -1,11 +1,7 @@
-<br />
-<br />
-https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif [website]
-[website]: https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif
-
-
 <h1 align="center">Hi👋, I'm Selin</h1>
 <h3 align="center">I'm interested in Data Science, I'm improving myself in this field. I really enjoy learning languages such as Python, R.</h3>
+
+![girl_3](https://user-images.githubusercontent.com/83660447/169692702-d7839e0a-91ee-4611-af3c-39c2a2088ec7.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
