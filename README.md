@@ -1,4 +1,8 @@
-### Hi there 👋
+<br />
+<br />
+https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif [website]
+[website]: https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif
+
 
 <h1 align="center">Hi👋, I'm Selin</h1>
 <h3 align="center">I'm interested in Data Science, I'm improving myself in this field. I really enjoy learning languages such as Python, R.</h3>
@@ -12,5 +16,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif
+
 
