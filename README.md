@@ -1,7 +1,8 @@
 <h1 align="center">Hi👋, I'm Selin</h1>
 <h3 align="center">I'm interested in Data Science, I'm improving myself in this field. I really enjoy learning languages such as Python, R.</h3>
 
-![girl_3](https://user-images.githubusercontent.com/83660447/169692702-d7839e0a-91ee-4611-af3c-39c2a2088ec7.gif)
+![tumblr_n9p276dJa91shpedgo1_400](https://user-images.githubusercontent.com/83660447/169692997-287481fe-85d6-4229-9f0d-77cc6aff09fe.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
