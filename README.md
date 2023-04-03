@@ -7,7 +7,7 @@
 
 ![tumblr_n9p276dJa91shpedgo1_400](https://user-images.githubusercontent.com/83660447/169692997-287481fe-85d6-4229-9f0d-77cc6aff09fe.gif)
 
-- 👩‍💻 Hi, I'm currently learning Python. [Python_Projects](https://github.com/Selin-Y/python-projects)
+- 👩‍💻 Hi, I'm learning Python and doing lots of Python Projects. 
 
 - 📝 I regularly write articles on [https://medium.com/@selinyazicioglu99](https://medium.com/@selinyazicioglu99)
 
