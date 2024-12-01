@@ -1,10 +1,6 @@
 <h1 align="center">Hi👋, I'm Selin</h1>
 <h3 align="center">I'm interested in Data Science, I'm improving myself in this field. I really enjoy learning languages such as Python, R.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selin-y&label=Profile%20views&color=0e75b6&style=flat" alt="selin-y" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selin-y" alt="selin-y" /></a> </p>
-
 ![tumblr_n9p276dJa91shpedgo1_400](https://user-images.githubusercontent.com/83660447/169692997-287481fe-85d6-4229-9f0d-77cc6aff09fe.gif)
 
 - 👩‍💻 Hi, I'm learning Python and doing lots of Python Projects. 
