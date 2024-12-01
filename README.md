@@ -21,7 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selin-y&show_icons=true&locale=en&layout=compact" alt="selin-y" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selin-y&show_icons=true&locale=en" alt="selin-y" /></p>
+
 
 
 
